@@ -2,4 +2,4 @@
 # 44563-WebApps-F24-Assignment3-Final-Pages
 A repo to hold final version of files for GitHub pages demonstration
 Hosted at: 
-https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment3-final-juliannamarshall/
+[https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment3-final-juliannamarshall/](https://juliannamarshall.github.io/44563-webapps-f24-assignment3-final-juliannamarshall/)
